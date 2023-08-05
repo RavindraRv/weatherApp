@@ -1,4 +1,5 @@
-# portfolio_sample_app
+# Weather App 
+API used = https://openweathermap.org/current
 
 A new Flutter project.
 
