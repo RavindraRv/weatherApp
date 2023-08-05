@@ -248,7 +248,7 @@ class _HomeState extends State<Home> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: [
-                      Text("Made By Dhruv"),
+                      Text("Made By Ravindra"),
                       Text("Data Provided By Openweathermap.org")
                     ],
                   ),

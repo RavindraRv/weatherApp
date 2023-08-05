@@ -75,14 +75,14 @@ class _LoadingState extends State<Loading> {
               SizedBox(height: 180,),
               Image.asset("images/mlogo.png",height: 240,width: 240,),
 
-              Text("Mausam App",
+              Text("Vatavaran App",
                 style: TextStyle(
                     fontSize: 30,
                     fontWeight: FontWeight.w500,
                     color: Colors.white
                 ),),
               SizedBox(height: 10,),
-              Text("Made By Dhruv",
+              Text("Made By Ravindra",
                 style: TextStyle(
                     fontSize: 18,
                     fontWeight: FontWeight.w400,
